@@ -1,18 +1,36 @@
-# Diego Dias 👨‍💻
+# Diego Dias
 
-## Sobre mim
-Olá! Sou um profissional de TI com experiência em infraestrutura e rede, atualmente em transição de carreira para DevOps. Tenho um amplo conhecimento em administração de sistemas, gerenciamento de redes e suporte técnico. Sou graduado em Logística, concluindo minha segunda graduação em Gestão de TI e possuo uma Pós em Engenharia de Redes e Segurança de Dados. Estou dedicado a aprender e contribuir para projetos de código aberto.
+Profissional de TI com mais de 10 anos de experiência em suporte, infraestrutura, redes e operações, com atuação prática em automação, desenvolvimento de sistemas internos, APIs, bancos de dados e deploy.
 
-## Habilidades
-- ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)
-- ![SQL](https://img.shields.io/badge/-SQL-blue?style=for-the-badge&logo=sql&logoColor=white)
-- ![Google Cloud Platform](https://img.shields.io/badge/-Google_Cloud_Platform-blue?style=for-the-badge&logo=google-cloud&logoColor=white)
-- ![AWS](https://img.shields.io/badge/-AWS-blue?style=for-the-badge&logo=amazon-aws&logoColor=white)
-- ![Azure](https://img.shields.io/badge/-Azure-blue?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-- ![Inteligência Artificial](https://img.shields.io/badge/-Inteligência_Artificial-blue?style=for-the-badge&logoColor=white)
+Tenho perfil técnico generalista e mão na massa, com foco em resolver problemas reais, integrar sistemas, reduzir retrabalho e manter ambientes confiáveis, organizados e funcionais.
 
-## Objetivos
-Estou em busca de oportunidades para aprimorar minhas habilidades em programação e computação em nuvem. Meu objetivo é não apenas contribuir de forma significativa para a comunidade de desenvolvedores, mas também me destacar como um profissional competente e comprometido nessa área em constante evolução. Estou pronto para enfrentar desafios e aprender continuamente, visando alcançar excelência e fazer impacto positivo em projetos e equipes.
+## Principais competências
 
-## Contato
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diiegodiias)
+* Suporte técnico e troubleshooting
+* Infraestrutura, redes e administração de ambientes
+* Linux, servidores e aplicações self-hosted
+* Docker, Docker Compose, Nginx e deploy
+* FastAPI, Vue.js, Node.js, Python e JavaScript
+* PostgreSQL e integração entre sistemas
+* Automação de processos operacionais
+* Uso prático de IA para produtividade, organização e apoio à operação
+
+## Foco atual
+
+* Desenvolvimento de soluções internas
+* Automação operacional
+* Integração entre APIs e serviços
+* Aplicações web full stack
+* Dashboards, painéis e ferramentas de apoio à gestão
+* Manutenção e evolução de sistemas
+
+## Projetos e interesses
+
+Costumo construir soluções voltadas para uso real, como sistemas internos, ERPs, APIs, chatbots, automações, integrações e ferramentas para melhorar processos do dia a dia.
+
+Além da atuação profissional em TI, também desenvolvo e mantenho projetos próprios com foco em utilidade prática, clareza, estabilidade e melhoria contínua.
+
+## Links
+
+* Portfólio: [diiego.cloud](https://diiego.cloud/)
+* LinkedIn: [diiegodiias](https://www.linkedin.com/in/diiegodiias)
