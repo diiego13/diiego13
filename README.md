@@ -1,6 +1,6 @@
 # Diego Dias
 
-Profissional de TI com foco em infraestrutura, automação, sistemas internos e desenvolvimento aplicado.
+Profissional de TI com foco em infraestrutura, automação, sistemas internos e desenvolvimento de soluções práticas.
 
 [![Portfolio](https://img.shields.io/badge/Portfólio-diiego.cloud-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://diiego.cloud/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-gomes-dias)
@@ -18,7 +18,7 @@ Meu foco é resolver problemas reais, integrar sistemas, reduzir retrabalho e ma
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-## Infra e deploy
+## Infraestrutura e deploy
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
